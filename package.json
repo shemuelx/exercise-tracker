@@ -1,10 +1,11 @@
 {
   "name": "exercise-tracker",
-  "author": {
-    "name": "Samuel Felipe"
-  },
   "version": "0.1.1",
-  "description": "A REST API project, part of freeCodeCamp curriculum",
+  "description": "An API REST project",
+  "author": {
+    "name": "Samuel Felipe",
+    "email": "samuel_mosquera@hotmail.com"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -24,6 +25,9 @@
     "node",
     "express",
     "javascript",
-    "mongodb"
+    "mongodb",
+    "html",
+    "css",
+    "exercise"
   ]
 }
